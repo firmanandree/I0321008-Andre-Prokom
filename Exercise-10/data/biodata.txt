@@ -1,0 +1,6 @@
+Nama: dewi
+Umur: 22
+Alamat: karawang
+Nama: udin
+Umur: 19
+Alamat: grogol
